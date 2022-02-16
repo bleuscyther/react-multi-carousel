@@ -1,7 +1,7 @@
 
 ## Usage with TypeScript
 
-```js
+```TypeScript
 import * as React from 'react';
 import { ButtonGroupProps, ArrowProps, DotProps } from 'react-multi-carousel/lib/types';
 interface CustomLeftArrowProps extends ArrowProps {
